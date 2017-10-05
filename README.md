@@ -3,14 +3,8 @@ A simple demo repositiory changed one
 ## Introduction
 This project describes git.
 ## Purpose
-<<<<<<< HEAD
-master change
+dfg
 ## Deploy
-sreejith changed
-=======
-Sreejith Nair
-## Deploy
-ILEAF
->>>>>>> realwork
+ghfd
 ## Contribution
 This project contributed to git.
