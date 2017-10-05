@@ -2,3 +2,5 @@
 A simple demo repositiory
 ## Introduction
 This project describes git and github examples
+## Purpose
+This project is for studying purpose
