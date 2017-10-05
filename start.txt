@@ -13,3 +13,4 @@ kkk
 jki
 sgh
 Remotecopy
+Local copy
