@@ -14,5 +14,5 @@ jki
 Line modifed on remote
 Remotecopy
 Local copy
-line added on github local
+line added on github start in remote
 
